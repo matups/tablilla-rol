@@ -1,0 +1,104 @@
+.post-bdy {
+width: 500px;
+background: var(--secondary); 
+margin: 0px auto; 
+margin-bottom: -75px; 
+padding-bottom: 2px;
+} 
+.postbdy-t {
+display: flex; 
+background: var(--color-beige);
+height: 53px;
+align-items: center;
+color: #201f1a; 
+padding: 8px;
+} 
+.postbdy-tit {
+font-family: "Tenor Sans", sans-serif;
+font-size: 25px; 
+margin: 0 auto;
+font-weight: 400;
+color: #6d6b1a; 
+text-transform: uppercase;
+letter-spacing: 2px;
+} 
+.postbdy-im {
+height: 180px;
+background: url(https://i.imgur.com/h296n7v.jpeg);
+} 
+.postbdy-txt {
+padding: 20px;
+text-align: justify; 
+color: var(--color-font); 
+font-family: "Poppins", sans-serif; 
+font-size: 12px;
+margin: 0 auto;
+width: 400px; 
+background: var(--color-beige); 
+font-weight: 500; 
+line-height: 18px;
+column-count: 2;
+}
+.postbdy-txt b { 
+font: 900 16px 'Tenor Sans'; 
+text-transform: uppercase; 
+color: #caab19; 
+line-height: 16px;
+} 
+.postbdy-txt u { 
+font: 700 10px 'Poppins'; 
+text-transform: uppercase; 
+background-color: #666820; 
+border-radius: 2px; 
+text-decoration: none; 
+color: #e0f2f7; 
+padding: 2px; 
+letter-spacing: .5px;
+} 
+.postbdy-amb {
+background: var(--color-beige); 
+width: 57%; 
+margin-top: 21px; 
+padding: 15px; 
+text-align: justify; 
+color: var(--color-font); 
+font-size: 13px; 
+margin-left: 18px; 
+font-family: "Poppins", sans-serif;
+}
+.datos-tab { 
+text-align: center; 
+padding: 11px; 
+margin-top: -45px; 
+margin-bottom: -22px;
+}
+.postbdyamb img { 
+width: 120px;
+margin-top: -121px; 
+margin-left: 317px; 
+border-radius: 10px 0px; 
+height: 120px; 
+}
+.postbdy-amb2 {
+background: var(--color-beige); 
+margin-top: 19px; 
+width: 57%;
+padding: 15px; 
+text-align: justify; 
+color: var(--color-font); 
+font-size: 13px; 
+margin-left: 154px;
+}
+.postbdyambb img {
+width: 120px; 
+margin-top: -122px; 
+margin-left: -321px;
+border-radius: 0px 10px; 
+height: 120px; 
+} 
+.postbdy-txt > span { 
+font: 900 15px 'Poppins'; 
+text-transform: uppercase; 
+color: #6d6b1a; 
+letter-spacing: 3px;
+}
